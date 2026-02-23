@@ -1,5 +1,7 @@
 # 🌍 World Population Distribution & Growth Analysis  
 
+<img width="1422" height="798" alt="World Population and Distribution Dashboard Image" src="https://github.com/user-attachments/assets/d1eae052-c4fa-45e9-a6d2-227120802fda" />
+
 **Power BI | Data Modeling | DAX | Data Visualization**
 
 This project presents a professional Power BI dashboard analyzing global population distribution, continent-level comparisons, and country-level growth metrics using structured demographic data.
